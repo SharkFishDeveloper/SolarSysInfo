@@ -1,0 +1,19 @@
+[
+{name, subtitle,desc}, ------>  dart object  to be used in code like   ob1.name,ob1.subtitle,ob1.desc
+
+{name, subtitle,desc},
+
+{name, subtitle,desc},
+
+{name, subtitle,desc},
+
+{name, subtitle,desc},
+
+{name, subtitle,desc},
+
+{name, subtitle,desc},
+
+{name, subtitle,desc},
+
+{name, subtitle,desc}
+]
